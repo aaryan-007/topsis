@@ -1,0 +1,8 @@
+Model,Maximum_Length,Vocabulary_Size,Embedding_Size,Training_Time
+DialoGPT-small,128,50257,768,100
+DialoGPT-medium,128,50257,1024,200
+DialoGPT-large,128,50257,1280,300
+GPT-3.5B,2048,50257,2048,1000
+BlenderBot-small,128,50257,768,150
+BlenderBot-medium,128,50257,1024,300
+BlenderBot-large,128,50257,2048,500
