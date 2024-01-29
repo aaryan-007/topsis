@@ -33,15 +33,15 @@ Text conversational models aim to generate human-like responses in natural langu
 #### Ranked Table:
 Explore detailed ranked results in **classification_table_result.csv**:
 
-| Model              | Maximum Length | Vocabulary Size | Embedding Size | Training Time (hours) | TOPIS Score | Rank |
-|--------------------|----------------|-----------------|----------------|-----------------------|-------------|------|
-| DialoGPT-small     | 128            | 50257           | 768            | 100                   |             |      |
-| DialoGPT-medium    | 128            | 50257           | 1024           | 200                   |             |      |
-| DialoGPT-large     | 128            | 50257           | 1280           | 300                   |             |      |
-| GPT-3.5B           | 2048           | 50257           | 2048           | 1000                  |             |      |
-| BlenderBot-small   | 128            | 50257           | 768            | 150                   |             |      |
-| BlenderBot-medium  | 128            | 50257           | 1024           | 300                   |             |      |
-| BlenderBot-large   | 128            | 50257           | 2048           | 500                   |             |      |
+| Model              | Maximum Length | Vocabulary Size | Embedding Size | Training Time (hours) 
+|--------------------|----------------|-----------------|----------------|-----------------------
+| DialoGPT-small     | 128            | 50257           | 768            | 100                   
+| DialoGPT-medium    | 128            | 50257           | 1024           | 200                   
+| DialoGPT-large     | 128            | 50257           | 1280           | 300                   
+| GPT-3.5B           | 2048           | 50257           | 2048           | 1000                 
+| BlenderBot-small   | 128            | 50257           | 768            | 150                
+| BlenderBot-medium  | 128            | 50257           | 1024           | 300                   
+| BlenderBot-large   | 128            | 50257           | 2048           | 500                   
 
 #### Bar Chart:
 The bar chart visually represents the performance metrics of each model, providing an easy-to-understand comparison. Maximum Length, Vocabulary Size, Embedding Size, Training Time, and normalized ranks are included for comprehensive evaluation.
